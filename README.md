@@ -3,7 +3,7 @@
 Sukuun is a full-stack web application focused on mental health awareness and support. The platform provides users with resources, interactive features, and a safe space to explore mental well-being.
 
 ---
-AryanRana
+
 ## 🚀 Features
 
 * 🔐 Google Authentication (Firebase)
